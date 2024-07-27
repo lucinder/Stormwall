@@ -1,0 +1,23 @@
+Pairs and weights:
+16 (Cavern E) - 17 (Cavern E) with travel time 15 hrs.
+20 (Cavern G) - 44 (Stormwall) with travel time 17 hrs.
+34 (Starford Keep) - 42 (GGC) with travel time 4 hrs.
+24 (Cavern H) - 23 (Cavern G) with travel time 5 hrs.
+38 (Calhas) - 19 (Cavern D) with travel time 4 hrs.
+39 (Calhas) - 5 (Aldenia) with travel time 7 hrs.
+9 (Cavern B) - 15 (Cavern E) with travel time 2 hrs.
+4 (Aldenia) - 6 (Aldenia) with travel time 8 hrs.
+40 (GGC) - 25 (Cavern H) with travel time 14 hrs.
+37 (Elysium) - 35 (Starford Keep) with travel time 7 hrs.
+32 (Cavern J) - 27 (Cavern F) with travel time 7 hrs.
+22 (Cavern G) - 2 (Aldenia) with travel time 7 hrs.
+10 (Cavern B) - 33 (Cavern J) with travel time 8 hrs.
+26 (Cavern H) - 7 (Cavern A) with travel time 12 hrs.
+1 (Aldenia) - 31 (Cavern J) with travel time 5 hrs.
+43 (GGC) - 41 (GGC) with travel time 9 hrs.
+11 (Cavern B) - 14 (Cavern C) with travel time 6 hrs.
+29 (Cavern I) - 30 (Cavern I) with travel time 3 hrs.
+28 (Cavern F) - 8 (Cavern A) with travel time 1 hrs.
+12 (Cavern B) - 13 (Cavern C) with travel time 2 hrs.
+21 (Cavern G) - 18 (Cavern D) with travel time 5 hrs.
+36 (Starford Keep) - 3 (Aldenia) with travel time 4 hrs.
